@@ -40,7 +40,8 @@
 .waifu-tool span {
     display: block;
     cursor: pointer;
-    color: #5b6c7d;
+    /*color: #5b6c7d;*/
+    color: lightpink;
     transition: 0.2s;
 }
 .waifu-tool span:hover {
